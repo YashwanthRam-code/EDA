@@ -49,7 +49,7 @@ We will use **Matplotlib, Seaborn, and Plotly** to visualize:
 
 ### 📂 Project Workflow  
 1. Import necessary libraries  
-2. Load the Zomato dataset  
+2. Load the Wine dataset  
 3. Clean and preprocess the data  
 4. Perform univariate, bivariate, and multivariate analysis  
 5. Visualize findings  
